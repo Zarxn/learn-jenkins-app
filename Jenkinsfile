@@ -36,7 +36,7 @@ pipeline {
                     npm run test
                 '''
             }
-        },
+        }
 
     }
 }
